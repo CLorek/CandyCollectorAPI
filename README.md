@@ -22,5 +22,5 @@ Run `python manage.py runserver` for a dev server. Navigate to `http://127.0.0.1
 
 ## Add Tables and migrate changes
 
-Run `python manage makemigrations CandyCollector` to add tables and 'python manage.py migrate CandyCollector' to migrate the changes.
+Run `python manage makemigrations CandyCollector` to add tables and `python manage.py migrate CandyCollector` to migrate the changes.
 
